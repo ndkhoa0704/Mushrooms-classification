@@ -2,6 +2,7 @@
 School project <br>
 A jupyter notebook is used to classify mushroom types depending on its attributes
 _____
+## Information
 Decision tree classifiers from scikitlearn is used to classify mushrooms <br>
 There are 3 tasks in this notebook:
 - **Task 1:** load and preprocess data
